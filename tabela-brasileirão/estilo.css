@@ -1,0 +1,21 @@
+th {
+    margin-left: auto;
+    Margin-right: auto;
+}
+
+table, th, td {
+ margin-left: auto;
+ Margin-right: auto;
+ border: 1px solid white;
+ border-collapse: collapse;
+}
+
+th, td {
+ background-color: #96D4D4;
+ padding: 5px
+}
+
+table {
+    font-family: candara;
+    font-size: 125%;
+}

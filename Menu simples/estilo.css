@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+}
+
+p  {	
+	color: white;
+	text-align: left;
+}
+
+h1 {
+	display: none; 
+}
+
+nav#menu {
+	display: block;
+}
+
+nav#menu ul {
+	text-transform: uppercase;
+	position: absolute;
+	top: -17px;
+	left: 0px;
+}
+
+nav#menu li:hover {
+	background-color: #9370DB;
+}
+
+nav#menu li {
+	display: inline-block;
+	background-color: #4B0082;
+	padding: 10px; 
+	margin: 2px;
+	transition: background-color 1s;
+}
+nav#menu a {
+	color: #F5FFFA;
+	text-decoration: none;

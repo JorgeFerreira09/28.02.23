@@ -1,0 +1,18 @@
+.all-browsers {
+  margin: 0;
+  background-color: lightgray;
+  width: 500px;
+}
+
+.all-browsers > h1, .browser {
+  margin: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2 {
+  margin: 6px;
+  font-size: 90%;
+}
